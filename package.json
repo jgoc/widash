@@ -1,0 +1,25 @@
+{
+  "name": "widash",
+  "version": "0.1.0",
+  "description": "Data Structures manipulating keys and values for both Arrays and Objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/partiel/widash.git"
+  },
+  "keywords": [
+    "objects",
+    "data",
+    "structures",
+    "arrays"
+  ],
+  "author": "Gocotano, Jessie John",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/partiel/widash/issues"
+  },
+  "homepage": "https://github.com/partiel/widash#readme"
+}
