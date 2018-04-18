@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/partiel/widash/issues"
   },
-  "homepage": "https://github.com/partiel/widash#readme"
+  "homepage": "https://github.com/partiel/widash#readme",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
 }
